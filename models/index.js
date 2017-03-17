@@ -1,6 +1,3 @@
-/**
- * Created by lucas on 11/03/2016.
- */
 var fs        = require("fs");
 var path      = require("path");
 var Sequelize = require("sequelize");
